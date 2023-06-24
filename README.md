@@ -5,7 +5,7 @@
 
 - 👨‍🎓 Currently an IT student **in ESI Buceo**
 
-- 🌱 I’m currently learning **MEARN Stack & PHP**
+- 🌱 I’m currently learning **MEARN Stack & C#**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
