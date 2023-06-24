@@ -13,6 +13,8 @@
 <a href="https://linkedin.com/in/javier-miranda-417858235/" target="blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/javier-miranda-417858235/" height="30" width="40" /></a>
 </p>
 
+<br>
+
 <h3 align="left">Frontend dev:</h3>
 <p align="left"> 
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
