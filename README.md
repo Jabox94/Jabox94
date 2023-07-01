@@ -1,4 +1,4 @@
-<h1 align="left">Hi there! Name is Jabox 🙋‍♂️</h1>
+<h1 align="left">Hi there! Name is Jabox 👋🏼</h1>
 
 
 <h3 align="left">About me:</h3>
